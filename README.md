@@ -10,4 +10,4 @@
 #to run server and client
 
     go to server and run "npm start'
-    go to client/todo and run npm start
+    go to client/todo and run "npm start"
